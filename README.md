@@ -2,8 +2,9 @@
 
 <h2>👩🏽‍💻 Mis Proyectos</h2>
 
-- <b>Full Stack Web App (React, NodeJS, Azure, y componentes de Machine Learning)</b>
-  - [Análisis de imágenes Middleware](https://github.com/URL) <b><i>
+  - [Full Stack Web App: React, NodeJS, Azure, y componentes de Machine Learning ](https://github.com/naekmv/LabActiveDirectory) 
+  - [Active Directory Lab](https://github.com/naekmv/LabActiveDirectory) 
+
 
 <h2>📄 Certificados </h2>
 
